@@ -14,3 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'am currently studying in **University of California, San Diego**, majoring in **Applied Mathematics**(B.S.) and **Computer Engineering**(B.S.).
+
+
